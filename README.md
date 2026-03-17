@@ -15,22 +15,27 @@ It includes:
 🤖 Model Training & Evaluation
 
 🌐 Web App using Streamlit
-
 ## 📁 Project Structure
 
 ```bash
 HEART_DISEASE_PROJECT/
 │
 ├── heart/
-│   ├── heart.csv           # Dataset
-│   ├── heartEDA.ipynb      # Data analysis notebook
-│   ├── knn_heart.pkl       # Trained KNN model
-│   ├── scaler.pkl          # StandardScaler object
-│   ├── columns.pkl         # Feature columns
+│   ├── heart.csv
+│   ├── heartEDA.ipynb
+│   ├── knn_heart.pkl
+│   ├── scaler.pkl
+│   ├── columns.pkl
 │
-├── app.py                  # Streamlit application
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+## 📊 Dataset Information
+
+Your normal text here...
+
 
 📊 Dataset Information
 
