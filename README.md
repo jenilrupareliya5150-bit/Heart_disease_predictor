@@ -148,8 +148,9 @@ Streamlit documentation
 
 👨‍💻 Author
 
-Jenil
-Engineering Student (CSE)
+Jenil Rupareliya <br>
+
+Engineering Student (CSE)<br>
 Aspiring AI Engineer 🚀
 
 ⭐ If you like this project
