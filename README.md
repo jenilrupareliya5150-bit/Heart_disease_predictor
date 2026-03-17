@@ -32,11 +32,6 @@ HEART_DISEASE_PROJECT/
 └── README.md
 ```
 
-## 📊 Dataset Information
-
-Your normal text here...
-
-
 📊 Dataset Information
 
 The dataset contains 918 records with the following features:
