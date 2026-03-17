@@ -161,7 +161,3 @@ Aspiring AI Engineer 🚀
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share it!
-
-🔥 Pro Tip (IMPORTANT)
-
-Before pushing:
