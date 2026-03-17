@@ -16,19 +16,22 @@ It includes:
 
 🌐 Web App using Streamlit
 
-📁 Project Structure
+## 📁 Project Structure
+
+```bash
 HEART_DISEASE_PROJECT/
 │
 ├── heart/
-│   ├── heart.csv                # Dataset
-│   ├── heartEDA.ipynb          # Data analysis notebook
-│   ├── knn_heart.pkl           # Trained KNN model
-│   ├── scaler.pkl              # StandardScaler object
-│   ├── columns.pkl             # Feature columns
+│   ├── heart.csv           # Dataset
+│   ├── heartEDA.ipynb      # Data analysis notebook
+│   ├── knn_heart.pkl       # Trained KNN model
+│   ├── scaler.pkl          # StandardScaler object
+│   ├── columns.pkl         # Feature columns
 │
-├── app.py                      # Streamlit application
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
+├── app.py                  # Streamlit application
+├── requirements.txt        # Dependencies
+└── README.md               # Project documentation
+
 📊 Dataset Information
 
 The dataset contains 918 records with the following features:
@@ -46,6 +49,7 @@ ExerciseAngina	Exercise-induced angina
 Oldpeak	ST depression
 ST_Slope	Slope of peak exercise ST
 HeartDisease	Target variable
+
 ⚙️ Technologies Used
 
 Python 🐍
