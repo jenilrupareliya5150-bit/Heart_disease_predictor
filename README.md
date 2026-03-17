@@ -35,7 +35,7 @@ HEART_DISEASE_PROJECT/
 📊 Dataset Information
 
 The dataset contains 918 records with the following features:
-
+```bash
 Feature	Description
 Age	Age of patient
 Sex	Male / Female
@@ -49,6 +49,7 @@ ExerciseAngina	Exercise-induced angina
 Oldpeak	ST depression
 ST_Slope	Slope of peak exercise ST
 HeartDisease	Target variable
+```
 
 ⚙️ Technologies Used
 
