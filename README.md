@@ -116,7 +116,7 @@ Get clear result:
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/jenilrupareliya5150-bit/heart_disease_prediction.git
+git clone https://github.com/jenilrupareliya5150-bit/Heart_disease_predictor
 cd heart_disease_prediction
 2️⃣ Install Dependencies
 pip install -r requirements.txt
